@@ -1,6 +1,6 @@
 # The Rust Release Process
 
-Here's how Rust is currently released:
+Here's how  wax Rust is currently released:
 
 ## Bump the stable version number (T-6 days, Friday the week before)
 
